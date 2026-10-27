@@ -5,7 +5,8 @@
 > [!NOTE]
 > **The source code of this project is private.** This repository is its public showcase: the
 > README, screenshots and every source file with its types and function signatures, but none of the
-> code inside them. If you'd like a demo or to talk about the project, open an issue.
+> code inside them. For a demo or access to the source code, email me at
+> [christodontchev@gmail.com](mailto:christodontchev@gmail.com).
 
 A Monte-Carlo simulation of how inflation, interest-rate hikes and income shocks affect low-, middle- and high-income households. It generates up to 100,000 synthetic households, each with its own income, spending mix, debts and savings. It runs them through a set of economic shocks and classifies every household from **Resilient** to **Critical**.
 
